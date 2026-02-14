@@ -1,2 +1,1 @@
-# latihan-branch
-Repository ini adalah hasil latihan dalam kelas Dicoding
+# Ini adalah repository untuk latihan membuat branch baru di GitHub.
